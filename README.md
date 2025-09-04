@@ -6,7 +6,7 @@ This project contains the scripts used to fetch raw reads, clean them, map to th
 
 #### Usage examples are provided in the header of each sbatch file. 
 
-#### Users will also need to adjust slurm scripts (e.g., '-p') and output scratch directories for local servers in each shell and sbatch script.
+#### Users will also need to adjust slurm scripts for local servers and base directories in many of the shell and sbatch scripts.
 
 ## 0. Environment Setup
 - **Script:** `00_make_psmc_env.sh`  
