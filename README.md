@@ -1,6 +1,6 @@
 # PSMC Data Processing Pipeline
 
-This project contains the scripts used to fetch raw reads, clean them, map to their genome assemblies, and prepare for PSMC analysis.
+This project contains the scripts used to fetch raw reads, clean them, map to their genome assemblies, call snps, generate consensus fastq, run psmc, and plot.
 
 ## Overview of Steps
 
