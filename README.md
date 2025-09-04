@@ -322,4 +322,3 @@ psmc_plot.pl -u 7.0e-9 -R -g 3 -x 100 -Y 2.5 -L -w 4 \
   
 ```
 
-Last updated:** $(date +'%Y-%m-%d')
